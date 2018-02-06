@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "sipeks")
-set(CN_CURRENCY_DISPLAY_NAME "SipeksCoin")
-set(CN_CURRENCY_TICKER "SPX")
+set(CN_PROJECT_NAME "BaryaCoin")
+set(CN_CURRENCY_DISPLAY_NAME "BaryaCoin")
+set(CN_CURRENCY_TICKER "BYA")

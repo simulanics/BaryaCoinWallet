@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "BaryaCoin")
+set(CN_PROJECT_NAME "baryacoin")
 set(CN_CURRENCY_DISPLAY_NAME "BaryaCoin")
 set(CN_CURRENCY_TICKER "BYA")
